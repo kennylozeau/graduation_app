@@ -12,7 +12,7 @@ class Graduate {
         let dashSprites = [[150, 0], [200, 0], [150, 0]];
         let jumpSprite = [350, 0]
 
-        this.ctx.clearRect(0, 0, 1000, 1000)
+        // this.ctx.clearRect(0, 0, 1000, 1000)
 
         this.ctx.drawImage(ceremony.stage, 20, 50, 850, 300);
         this.ctx.drawImage(ceremony.audienceChairs, 20, 349, 850, 70)
@@ -73,7 +73,7 @@ class Graduate {
 
             if (startingPosition[0] >= 740) {
                 clearInterval(interval)
-                this.ctx.clearRect(0, 0, 1000, 1000)
+                // this.ctx.clearRect(0, 0, 1000, 1000)
                 ceremony.constructStage()
                 button.disabled = false
                 studentName.innerHTML  = ""
