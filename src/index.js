@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let ceremony = new Ceremony(ctx, graduates)
     ceremony.sound = punch; // give sound to ceremony instance
+    ceremony.sound.volume = 0.4;
 
     submitButton.addEventListener("click", () => {
         let input = document.querySelector("input");

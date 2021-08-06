@@ -64,7 +64,7 @@ class Graduate {
         studentName.innerHTML = this.name
         let i = 0;
         let jumpHeight = [0];
-        debugger
+
         let interval = setInterval(() => {
             startingPosition[0] += 20
             i++
