@@ -1,4 +1,4 @@
-Live site: https://carlosaicrag.github.io/virtual_graduation/
+Live site: https://kennylozeau.github.io/graduation_app/
 
 ## To add cohort:
 - Clone down repo
