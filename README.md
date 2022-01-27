@@ -11,3 +11,25 @@ Live site: https://kennylozeau.github.io/graduation_app/
 - Don't forget to webpack it! run `npm run build`
 - Push it up! (Wait a few minutes for github pages)
 - Have fun!
+
+## Update the student data.
+- go to progress.appacademy.io/students
+- open dev tools console and run:
+```js
+let students = [];
+$(".classmate-block.block").each(function () {
+  const $link = $(this).find("strong a");
+  const segments = $link.attr("href").split('/');
+
+  const id = parseInt(segments[segments.length - 1]);
+  const name = $link.text();
+  const imageUrl = $(this).find("figure img").attr("src");
+
+  student = {id, name, imageUrl, occup: "student"};
+  students.push(student);
+});
+```
+- console.log(JSON.stringify(students, undefined, 2));
+- Copy the logged text and paste it into data/xxStudents.js. Make sure that you maintain the file's module pattern when you do this.
+
+- Make sure each students' imageUrl begins with http:// (instead of just //)
