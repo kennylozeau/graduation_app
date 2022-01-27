@@ -174,3 +174,5 @@ const students = [
         "occup": "student"
     }
 ]
+
+export default students;
