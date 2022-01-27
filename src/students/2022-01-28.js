@@ -20,7 +20,7 @@ const students = [
     {
         "id": 6810,
         "name": "Andy Yu",
-        "imageUrl": "https://secure.gravatar.com/avatar/fc63eddefc21a3bd24766cb5d9395110?secure=true&size=300",
+        "imageUrl": "https://angel.co/cdn-cgi/image/width=400,height=400,format=auto,fit=cover/https://photos.angel.co/users/14158230-original?1643164453",
         "occup": "student"
     },
     {
@@ -32,13 +32,13 @@ const students = [
     {
         "id": 7058,
         "name": "Anthony Carroll",
-        "imageUrl": "https://secure.gravatar.com/avatar/9489d83e619199d18d29e703d79ee8e1?secure=true&size=300",
+        "imageUrl": "https://www.pngitem.com/pimgs/m/30-307416_profile-icon-png-image-free-download-searchpng-employee.png",
         "occup": "student"
     },
     {
         "id": 7046,
         "name": "Anuj Gupta",
-        "imageUrl": "https://secure.gravatar.com/avatar/0b7b81f05bf5067158586c506e92d5c2?secure=true&size=300",
+        "imageUrl": "https://avatars.githubusercontent.com/u/53449807?v=4",
         "occup": "student"
     },
     {
@@ -56,13 +56,13 @@ const students = [
     {
         "id": 7048,
         "name": "Chaya Cohen",
-        "imageUrl": "https://secure.gravatar.com/avatar/51061a1fa3f9bd5f8425be6d1dc40a32?secure=true&size=300",
+        "imageUrl": "https://angel.co/cdn-cgi/image/width=400,height=400,format=auto,fit=cover/https://photos.angel.co/users/14179028-original?1643125770",
         "occup": "student"
     },
     {
         "id": 7054,
         "name": "Christian Lee",
-        "imageUrl": "https://secure.gravatar.com/avatar/8b08f0a0bde99fe82f7d5a37ccfc8625?secure=true&size=300",
+        "imageUrl": "https://www.pngitem.com/pimgs/m/30-307416_profile-icon-png-image-free-download-searchpng-employee.png",
         "occup": "student"
     },
     {
@@ -74,7 +74,7 @@ const students = [
     {
         "id": 7042,
         "name": "Joseph (Joe) Manso",
-        "imageUrl": "https://secure.gravatar.com/avatar/daf845387ecb0bfe1e0a2dfbd5b1ee6a?secure=true&size=300",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEer7E3tLpCfg/profile-displayphoto-shrink_400_400/0/1517514658513?e=1648684800&v=beta&t=-veVli1VZQmJVb2JtDz4AwgXUimgbZni_JpWvpi2sBo",
         "occup": "student"
     },
     {
@@ -86,7 +86,7 @@ const students = [
     {
         "id": 7051,
         "name": "Julio Tavarez",
-        "imageUrl": "https://secure.gravatar.com/avatar/5da9b0ecfbddd4673dfe40b1eee208d5?secure=true&size=300",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFI1DxYs87BYQ/profile-displayphoto-shrink_400_400/0/1643040157140?e=1648684800&v=beta&t=azyI5Fi2ojak0k74dhNc-NGDPy6P0YV0M_ZobZV1dqQ",
         "occup": "student"
     },
     {
@@ -116,7 +116,7 @@ const students = [
     {
         "id": 7036,
         "name": "Nicholas (Nick) Barrameda",
-        "imageUrl": "https://secure.gravatar.com/avatar/4da736a6f447776c2031b9c35ea7ef21?secure=true&size=300",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGnZtwq6EtK4Q/profile-displayphoto-shrink_400_400/0/1618327580147?e=1648684800&v=beta&t=WFklI90JY3nvC-vnGkDkkr6Y0qnPlsKnwdkGrtMkbCo",
         "occup": "student"
     },
     {
@@ -128,13 +128,13 @@ const students = [
     {
         "id": 7041,
         "name": "Sonja Ng",
-        "imageUrl": "https://secure.gravatar.com/avatar/98709cf3d463156c008e47cf9f9fa9fe?secure=true&size=300",
+        "imageUrl": "https://angel.co/cdn-cgi/image/width=400,height=400,format=auto,fit=cover/https://photos.angel.co/users/14172861-original?1643158299",
         "occup": "student"
     },
     {
         "id": 7056,
         "name": "Stella Choi",
-        "imageUrl": "https://secure.gravatar.com/avatar/a815e1ba31312898529cd1e235a7ae94?secure=true&size=300",
+        "imageUrl": "https://avatars.githubusercontent.com/u/17345270?v=4",
         "occup": "student"
     },
     {
@@ -146,7 +146,7 @@ const students = [
     {
         "id": 7045,
         "name": "Steven Sookhai",
-        "imageUrl": "https://secure.gravatar.com/avatar/1de5f3146d976a2f10faba8974156685?secure=true&size=300",
+        "imageUrl": "https://avatars.githubusercontent.com/u/90236328?v=4",
         "occup": "student"
     },
     {
@@ -170,7 +170,7 @@ const students = [
     {
         "id": 7047,
         "name": "Yisrael Peikes",
-        "imageUrl": "https://secure.gravatar.com/avatar/0cdeb5db1786c2b08f724bd4be93364b?secure=true&size=300",
+        "imageUrl": "https://angel.co/cdn-cgi/image/width=400,height=400,format=auto,fit=cover/https://photos.angel.co/users/14172841-original?1643158632",
         "occup": "student"
     }
 ]
